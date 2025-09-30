@@ -1,0 +1,16 @@
+body{
+    font-size: larger;
+}
+h1{
+    background-color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+li{
+    text-transform: none;
+
+}
+div{
+    background-color: aqua;
+}
